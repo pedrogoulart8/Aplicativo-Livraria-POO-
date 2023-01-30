@@ -1,4 +1,4 @@
-## Aplicativo-Livraria-POO-
+## Aplicativo Livraria (Programação Orientada a Objetos)
 
 ### Simulação de um aplicativo interno de uma livraria.
 
